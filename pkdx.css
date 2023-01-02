@@ -1,0 +1,142 @@
+#content
+{
+    width: 600px;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    border-style: solid;
+    border-color:red;
+    border-radius: 8px;
+}
+
+#information
+{
+    width: 300px;
+    height: 650px;
+}
+
+#pkmn_list
+{
+    width: 300px;
+    height: 650px;
+    background-color:darkred;
+    overflow-y: auto;
+}
+
+#pokemon_name
+{
+    width: 294px;
+    height: 40px;
+    border-style:solid;
+    border-color:red;
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#pokemon_dimensions
+{
+    width: 294px;
+    height: 40px;
+    border-style:solid;
+    border-color:red;
+    background-color: cyan;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#pokemon_img
+{
+    width: 294px;
+    height: 294px;
+    background-color: whitesmoke;
+    display: block;
+    border-style:solid;
+    border-color:red;
+}
+
+#description
+{
+    width: 294px;
+    height: 166px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: aqua;
+    border-color: red;
+    border-style: solid;
+}
+
+#types
+{
+    width: 294px;
+    height: 44px;
+    background-color: cyan;
+    border-color:red;
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content:space-evenly;
+    vertical-align: middle;
+}
+
+#gen_menu
+{
+    height: 20px;
+    width: 150px;
+    background-color: lime;
+}
+
+#gen_selection
+{
+    height: 30px;
+    width: 294px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content:space-evenly;
+    vertical-align: middle;
+    border-style: solid;
+    border-color:red;
+    background-color: orangered; 
+}
+
+#gen_button
+{
+    background-color: lime;
+}
+
+.pokemonEntries
+{
+    width: 277px;
+    height: 25px;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-color:red;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.typeItem
+{
+    width: 75px;
+    height: 22px;
+    text-align: center;
+    background-color:aquamarine;
+    border-radius: 4px;
+    border-color:black;
+    border-style:solid;
+}
+
+
+
