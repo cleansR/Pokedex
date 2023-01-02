@@ -1,5 +1,5 @@
 # Pokedex
-This is a basic web application using HTML, CSS, and Javascript.
+This is a basic web application using HTML, CSS, and JavaScript which uses the PokeAPI API.
 ## What Is It?
 This application is based off a Pokedex, which is an item from the popular video-game franchise Pokemon. 
 The Pokedex displays basic information about the various creatures (Pokemon) from the game. 
