@@ -131,7 +131,10 @@
 {
     width: 75px;
     height: 22px;
+    display: flex;
+    justify-content: center;
     text-align: center;
+    align-items: center;
     background-color:aquamarine;
     border-radius: 4px;
     border-color:black;
